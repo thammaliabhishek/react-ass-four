@@ -1,0 +1,39 @@
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.contact{
+  text-align: center;
+}
+.Nav{
+ background-color: darkred;
+  margin-bottom:15px;
+  display:flex;
+  flex-direction: row;
+  justify-content:space-around;
+  padding:20px;
+}
+table, th, td {
+  width:500px;
+  padding:10px;
+  border: 1px solid black;
+  border-collapse:separate;
+ 
+ margin-left: 40vw;
+ margin-top: 100px;
+
+}
+th, td {
+  background-color: #96D4D4;
+}
+th, td {
+  border-color:black
+}
+.btn{
+  position:absolute;
+  right:30vw;
+}
+
+
